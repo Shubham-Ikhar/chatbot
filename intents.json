@@ -1,0 +1,7 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns":["Hey. How are you?", "Clean my room.", "Fetch the newspaper." , "Clean my room.", "Read my shopping list.",
+    "Fetch the newspaper." , "Add Bread to my shopping list." , "Add Eggs to my shopping list.",
+    "Add Bread to my shopping list.", "Read my shopping list.", "How much is 5 + 2?", "How the weather outside?"],
+  "responses":  ["Hello, I am doing great." , "Room is cleaned. It looks tidy now. Job completed at <current time>", "Here is your newspaper.", "The room was just cleaned 0 minute(s) ago. I hope it's not dirty", "You have no items in your shopping list", "I think you don't get another newspaper the same day", "Bread added to your shopping list", "Eggs added to your shopping list", "You already have Bread in your shopping list", "Here is your shopping list. Bread, Eggs.", "Hmm.. I don't know that", "It's pleasant outside. You should take a walk."]}
+]}
